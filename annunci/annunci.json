@@ -1,0 +1,370 @@
+[
+    {
+        "id": 1,
+        "name": "Huawei X5",
+        "category": "Elettronica",
+        "price": "120.12",
+        "type": "sell",
+        "createdAt": 1679933987990
+    },
+    {
+        "id": 2,
+        "name": "Fiat 500",
+        "category": "Motori",
+        "price": "2000.32",
+        "type": "search",
+        "createdAt": 1675500252992
+    },
+    {
+        "id": 3,
+        "name": "Mazza da Baseball",
+        "category": "Sport",
+        "price": "20.15",
+        "type": "sell",
+        "createdAt": 1678622576101
+    },
+    {
+        "id": 4,
+        "name": "Bilocale",
+        "category": "Immobili",
+        "price": "30000.54",
+        "type": "search",
+        "createdAt": 1680171577327
+    },
+    {
+        "id": 5,
+        "name": "Felpa usata",
+        "category": "Abbigliamento",
+        "price": "10.42",
+        "type": "sell",
+        "createdAt": 1678828405183
+    },
+    {
+        "id": 6,
+        "name": "Divani due posti",
+        "category": "Arredamento",
+        "price": "400.64",
+        "type": "search",
+        "createdAt": 1677158607158
+    },
+    {
+        "id": 7,
+        "name": "Pala",
+        "category": "Giardinaggio",
+        "price": "30.45",
+        "type": "sell",
+        "createdAt": 1679491416482
+    },
+    {
+        "id": 8,
+        "name": "Master of Pupo",
+        "category": "Musica",
+        "price": "15.64",
+        "type": "sell",
+        "createdAt": 1676491739749
+    },
+    {
+        "id": 9,
+        "name": "TV Samsung",
+        "category": "Elettronica",
+        "price": "230.42",
+        "type": "sell",
+        "createdAt": 1675591351580
+    },
+    {
+        "id": 10,
+        "name": "Ford Puma",
+        "category": "Motori",
+        "price": "25000.02",
+        "type": "sell",
+        "createdAt": 1679630238288
+    },
+    {
+        "id": 11,
+        "name": "Pallone da calcio",
+        "category": "Sport",
+        "price": "30.12",
+        "type": "search",
+        "createdAt": 1678713733270
+    },
+    {
+        "id": 12,
+        "name": "Trilocale",
+        "category": "Immobili",
+        "price": "55000.54",
+        "type": "sell",
+        "createdAt": 1675236523185
+    },
+    {
+        "id": 13,
+        "name": "Sciarpa scolorita",
+        "category": "Abbigliamento",
+        "price": "5.23",
+        "type": "sell",
+        "createdAt": 1676651154977
+    },
+    {
+        "id": 14,
+        "name": "Lampada",
+        "category": "Arredamento",
+        "price": "70.65",
+        "type": "sell",
+        "createdAt": 1675867008147
+    },
+    {
+        "id": 15,
+        "name": "Concime",
+        "category": "Giardinaggio",
+        "price": "2.45",
+        "type": "search",
+        "createdAt": 1675206753243
+    },
+    {
+        "id": 16,
+        "name": "Basso nuovo",
+        "category": "Musica",
+        "price": "300.62",
+        "type": "sell",
+        "createdAt": 1676431519256
+    },
+    {
+        "id": 17,
+        "name": "Cuffie Sony",
+        "category": "Elettronica",
+        "price": "120.65",
+        "type": "sell",
+        "createdAt": 1679352255499
+    },
+    {
+        "id": 18,
+        "name": "Ducati Monster",
+        "category": "Motori",
+        "price": "12000.13",
+        "type": "sell",
+        "createdAt": 1678880276928
+    },
+    {
+        "id": 19,
+        "name": "Pattini",
+        "category": "Sport",
+        "price": "90.64",
+        "type": "search",
+        "createdAt": 1675390162189
+    },
+    {
+        "id": 21,
+        "name": "Guanti invernali",
+        "category": "Abbigliamento",
+        "price": "22.04",
+        "type": "sell",
+        "createdAt": 1676160807174
+    },
+    {
+        "id": 22,
+        "name": "Scrivania in vetro",
+        "category": "Arredamento",
+        "price": "600.63",
+        "type": "search",
+        "createdAt": 1680266661158
+    },
+    {
+        "id": 23,
+        "name": "Secchio",
+        "category": "Giardinaggio",
+        "price": "30.43",
+        "type": "search",
+        "createdAt": 1675865037331
+    },
+    {
+        "id": 24,
+        "name": "Compilation Pupo",
+        "category": "Musica",
+        "price": "9.93",
+        "type": "search",
+        "createdAt": 1675582586068
+    },
+    {
+        "id": 25,
+        "name": "Auricolari Sennheiser",
+        "category": "Elettronica",
+        "price": "120.93",
+        "type": "sell",
+        "createdAt": 1678039152223
+    },
+    {
+        "id": 26,
+        "name": "Fiat 300",
+        "category": "Motori",
+        "price": "2560.42",
+        "type": "sell",
+        "createdAt": 1675988647625
+    },
+    {
+        "id": 27,
+        "name": "Set mazze da golf",
+        "category": "Sport",
+        "price": "4320.43",
+        "type": "search",
+        "createdAt": 1679596544240
+    },
+    {
+        "id": 28,
+        "name": "Posto augo",
+        "category": "Immobili",
+        "price": "2200.63",
+        "type": "search",
+        "createdAt": 1677829905122
+    },
+    {
+        "id": 29,
+        "name": "Zaino Decathlon",
+        "category": "Abbigliamento",
+        "price": "55.55",
+        "type": "sell",
+        "createdAt": 1677773109074
+    },
+    {
+        "id": 30,
+        "name": "Comodino",
+        "category": "Arredamento",
+        "price": "210.12",
+        "type": "sell",
+        "createdAt": 1677534051884
+    },
+    {
+        "id": 31,
+        "name": "Rastrello",
+        "category": "Giardinaggio",
+        "price": "5.62",
+        "type": "sell",
+        "createdAt": 1678539835593
+    },
+    {
+        "id": 32,
+        "name": "Compilation Nino D'Angelo",
+        "category": "Musica",
+        "price": "1.91",
+        "type": "sell",
+        "createdAt": 1679569390702
+    },
+    {
+        "id": 33,
+        "name": "IPhone X",
+        "category": "Elettronica",
+        "price": "1300.41",
+        "type": "search",
+        "createdAt": 1677764021009
+    },
+    {
+        "id": 34,
+        "name": "Nissan Juke",
+        "category": "Motori",
+        "price": "25420.40",
+        "type": "sell",
+        "createdAt": 1680150691665
+    },
+    {
+        "id": 35,
+        "name": "Guanti da palestra",
+        "category": "Sport",
+        "price": "11.54",
+        "type": "search",
+        "createdAt": 1678945885314
+    },
+    {
+        "id": 37,
+        "name": "Scarpe Nike",
+        "category": "Abbigliamento",
+        "price": "240.33",
+        "type": "sell",
+        "createdAt": 1676037265251
+    },
+    {
+        "id": 38,
+        "name": "Poltrona",
+        "category": "Arredamento",
+        "price": "420.66",
+        "type": "search",
+        "createdAt": 1678431490196
+    },
+    {
+        "id": 39,
+        "name": "Semi",
+        "category": "Giardinaggio",
+        "price": "4.43",
+        "type": "sell",
+        "createdAt": 1678680786598
+    },
+    {
+        "id": 40,
+        "name": "Biglietto Gods Of Metal",
+        "category": "Musica",
+        "price": "150.65",
+        "type": "search",
+        "createdAt": 1678358836357
+    },
+    {
+        "id": 41,
+        "name": "Macbook Pro",
+        "category": "Elettronica",
+        "price": "2340.37",
+        "type": "search",
+        "createdAt": 1676118885218
+    },
+    {
+        "id": 42,
+        "name": "Dacia Duster",
+        "category": "Motori",
+        "price": "13350.73",
+        "type": "sell",
+        "createdAt": 1677559897331
+    },
+    {
+        "id": 43,
+        "name": "Canoa",
+        "category": "Sport",
+        "price": "520.03",
+        "type": "search",
+        "createdAt": 1679045746617
+    },
+    {
+        "id": 44,
+        "name": "Cantina",
+        "category": "Immobili",
+        "price": "20000.12",
+        "type": "sell",
+        "createdAt": 1679680139708
+    },
+    {
+        "id": 45,
+        "name": "Jeans",
+        "category": "Abbigliamento",
+        "price": "55.54",
+        "type": "sell",
+        "createdAt": 1679921146818
+    },
+    {
+        "id": 46,
+        "name": "Lampadario",
+        "category": "Arredamento",
+        "price": "280.54",
+        "type": "sell",
+        "createdAt": 1680025140682
+    },
+    {
+        "id": 47,
+        "name": "Trattore",
+        "category": "Giardinaggio",
+        "price": "12000.09",
+        "type": "sell",
+        "createdAt": 1675752244550
+    },
+    {
+        "id": 48,
+        "name": "Plettro",
+        "category": "Musica",
+        "price": "0.99",
+        "type": "sell",
+        "createdAt": 1678895781884
+    }
+]

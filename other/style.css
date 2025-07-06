@@ -1,0 +1,118 @@
+:root {
+    --primary-color: #00b98e;
+    --primary-dark-color: #02ab83;
+    --primary-light-color: #02ab83;
+    --accent-color: #0e2e50;
+    --white: #EFFDF5;
+    --neutral: #666565;
+    --btn-carousel-size: 48px;
+}
+
+body {
+    background-color: var(--white);
+}
+
+.bg-primary-color {
+    background-color: var(--primary-color);
+}
+
+.text-primary-color {
+    color: var(--primary-color);
+}
+
+.home {
+    background-color: var(--primary-color);
+    border-radius: 6px;
+    color: white !important;
+}
+
+.card-category {
+    border-radius: 12px;
+    background-color: var(--white);
+}
+
+.card-body-category {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px dashed var(--primary-color);
+    border-radius: 12px;
+    background-color: white;
+}
+
+.card-icon-category {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px dashed var(--primary-color);
+    border-radius: 50%;
+    width: 64px;
+    height: 64px;
+    color: var(--primary-color);
+}
+
+.card-body-category p {
+    color: var(--primary-color);
+}
+
+.carousel-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+}
+
+.carousel-item {
+    height: 500px;
+}
+
+.carousel-item img {
+    height: 100%;
+    object-fit: cover;
+}
+
+.bg-form {
+    background-color: var(--white);
+}
+
+.send-form {
+    background-color: var(--primary-color);
+    border: 1px solid rgb(255, 255, 255);
+}
+
+.jobUs {
+    color: var(--primary-color);
+    font-weight: bold;
+}
+
+.card-body-category:hover {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+.card-icon-category:hover {
+    color: var(--primary-color);
+    background-color: white;
+}
+
+.card-body-category:hover p {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+.card-body-category:hover .card-icon-category {
+    background-color: white;
+    color: var(--primary-color);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.bg-primary {
+    background-color: var(--primary-color) !important;
+}
+
+.text-primary {
+    color: var(--primary-color) !important;
+}
